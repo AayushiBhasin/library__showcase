@@ -1,1 +1,0 @@
-Out directory is required
